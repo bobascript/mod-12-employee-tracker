@@ -40,4 +40,4 @@ To use this app, simply clone the repository and run the following command: `npm
 
 ## Video Walkthrough
 
-You can see a video of the app in action [here]()
+You can see a video of the app in action [here](https://drive.google.com/file/d/1wyblYQN8vIv4HT15MUp_shAmb6GddM66/view?usp=sharing)
